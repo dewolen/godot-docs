@@ -1246,6 +1246,14 @@ enum **ButtonList**:
 
 - **BUTTON_MASK_MIDDLE** = **4** --- Middle mouse button mask.
 
+- **BUTTON_MASK_WHEEL_UP** = **8** --- Mouse wheel up mask.
+
+- **BUTTON_MASK_WHEEL_DOWN** = **16** --- Mouse wheel down mask.
+
+- **BUTTON_MASK_WHEEL_LEFT** = **32** --- Mouse wheel left mask.
+
+- **BUTTON_MASK_WHEEL_RIGHT** = **64** --- Mouse wheel right mask.
+
 - **BUTTON_MASK_XBUTTON1** = **128** --- Extra mouse button 1 mask.
 
 - **BUTTON_MASK_XBUTTON2** = **256** --- Extra mouse button 2 mask.
